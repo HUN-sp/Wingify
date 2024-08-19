@@ -13,7 +13,7 @@ This project utilizes CrewAI to analyze blood test reports and provide personali
 
    ```bash
    git clone https://github.com/HUN-sp/Wingify.git
-   cd wingify-project
+   
 2. **Install the required packages**
    ```bash
    pip install -r requirements.txt
